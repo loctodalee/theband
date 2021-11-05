@@ -151,7 +151,7 @@ html{
 #slider .text-content{
     position: absolute;
     bottom: 47px;
-    color: #000;
+    color: white;
     width: 100%;
     text-align: center;
     
@@ -610,13 +610,13 @@ html{
 }
 @keyframes slide-img{
         0%{
-            background: url('../img/img1.jpg') top center / cover no-repeat, cornflowerblue;
+            background: url('../img/img11.jpg') top center / cover no-repeat, cornflowerblue;
     }
         33%{
-            background: url('../img/img8.jpg') top center / cover no-repeat, cornflowerblue;
+            background: url('../img/img12.jpg') top center / cover no-repeat, cornflowerblue;
         }
         66%{
-            background: url('../img/img10.jpg') top center / cover no-repeat, cornflowerblue;
+            background: url('../img/img13.jpg') top center / cover no-repeat, cornflowerblue;
         }
     }
 
